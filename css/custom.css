@@ -23,12 +23,12 @@ p {
 }
 
 header {
-    position: relative;
+    position: relative; 
     width: 100%;
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url('../images/pexels-photo.jpg');
+    background-image: url('../images/pexels-photo_new.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
