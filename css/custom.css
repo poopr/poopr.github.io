@@ -23,8 +23,7 @@ p {
 }
 
 header {
-    margin-top: 100;
-    position: relative;
+    position: relative; 
     width: 100%;
     min-height: auto;
     text-align: center;
